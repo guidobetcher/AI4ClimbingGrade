@@ -1,9 +1,9 @@
 # AI4ClimbingGrade
-An AI method to graduate climbing lines
+Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+An AI method to graduate climbing lines. based on the main attributes of a climbing line it graduates it from V to 9c+.
 
 
 ## Background
