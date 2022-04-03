@@ -3,18 +3,15 @@ Final project for the Building AI course
 
 ## Summary
 
-An AI method to graduate climbing lines. based on the main attributes of a climbing line it graduates it from V to 9c+.
+An AI method to estimate trekking routes duration, based on the distance and positive and negative slopes using data from Wikiloc
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
-
+* This project tries to give the possibility to estimate the duration of a never done route
+* Takes into account the diference between the trekking rithm when the slope is positive or negative. 
+* This times are difficult to estimate with other tools, sice, for example, Google Maps could doesn't have the routes accessible
+* It makes an average from all Wikiloc users trekking speeds
 
 ## How is it used?
 
